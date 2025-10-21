@@ -13,3 +13,6 @@ langchain-community
 sentence_transformers
 langchain-huggingface
 faiss-cpu
+langchain_chroma
+ipywidgets
+langchain-ollama
